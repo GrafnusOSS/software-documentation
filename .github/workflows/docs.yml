@@ -25,6 +25,10 @@ jobs:
           # cache deps for pnpm
           cache: npm
 
+      # install dependencies
+      - name: Install Node.js dependencies
+        run: npm install
+
       # run build script
       - name: Build VuePress site
         run: npm run docs:build
