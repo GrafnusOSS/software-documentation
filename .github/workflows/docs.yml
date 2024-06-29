@@ -26,6 +26,10 @@ jobs:
           cache: npm
 
       # install dependencies
+      - name: Debug
+        run: pwd
+
+      # install dependencies
       - name: Install Node.js dependencies
         run: npm install
 
