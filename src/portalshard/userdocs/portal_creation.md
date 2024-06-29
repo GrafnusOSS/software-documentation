@@ -35,7 +35,7 @@ The following resources are required to craft the key:
 
 See the image below as a reference.
 
-![img](./img/PortalKeyCrafting.png "Crafting Recipe for the Portal Key")
+![img](./img/PortalKeyCrafting.PNG "Crafting Recipe for the Portal Key")
 
 When crafting the portal key, you’ll get two keys. These are used to create a connection between two portals and are consumed if you are initiating a portal.
 
