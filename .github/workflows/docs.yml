@@ -26,16 +26,16 @@ jobs:
           cache: npm
 
       # install dependencies
-      - name: Debug
-        run: ls -l /home/runner/work/software-documentation/software-documentation/src/portalshard/userdocs/img/
-
-      # install dependencies
       - name: Install Node.js dependencies
         run: npm install
 
       # run build script
       - name: Build VuePress site
         run: npm run docs:build
+
+      # run build script
+      - name: Add CNAME file for gh pages
+        run: touch src/.vuepress/dist/CNAME && echo "oss.grafnus.de" >> src/.vuepress/dist/CNAME
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
