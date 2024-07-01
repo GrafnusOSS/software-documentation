@@ -39,7 +39,7 @@ See the image below as a reference.
 
 When crafting the portal key, you’ll get two keys. These are used to create a connection between two portals and are consumed if you are initiating a portal.
 
-## Building the Frame
+### Building the Frame
 
 The basic form of the portal is built by creating some sort of door frame out of `Crying Obsidian`. The image below visualises how you need to set up the portal frame.
 
@@ -49,13 +49,16 @@ The block below the portal can be any block. If you choose to change it later, y
 
 The blocks that make out the frame are not breakable until the portal has been [brocken](#removing-a-portal). You can, however, reuse the already used blocks to create space and resource efficient portal-rooms.
 
-## Linking two Portals
+### Linking two Portals
 
 After building the portal frame and crafting the portal key, the only thing that is left to do, is to place one portal key on the ground inside the portal frame. Now you have the first half of a functional portal. The animation blow visualises this process.
 
 Build another portal frame and use the second key in your inventory to create a second portal. They are now automatically linked to each other and ready for action!
 
 Step inside and check for yourself 😉
+
+> [!tip]
+> You can break the block below the pprtal without destroying the portal!
 
 ## Removing a portal
 

@@ -3,9 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://oss.grafnus.de/assets/images/Cover.PNG
 heroText: GrafnusOSS
-tagline: You can put your slogan here
+tagline: To extend on vanilla Minecraft
 heroFullScreen: true
 highlights:
   - icon: book
