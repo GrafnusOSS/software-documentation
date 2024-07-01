@@ -58,7 +58,7 @@ Build another portal frame and use the second key in your inventory to create a 
 Step inside and check for yourself 😉
 
 > [!tip]
-> You can break the block below the pprtal without destroying the portal!
+> You can break the block below the portal without destroying the portal!
 
 ## Removing a portal
 
