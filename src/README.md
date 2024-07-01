@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: https://oss.grafnus.de/assets/images/Cover.PNG
+bgImage: https://oss.grafnus.de/assets/images/Cover.PNG
+heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: GrafnusOSS
 tagline: To extend on vanilla Minecraft
 heroFullScreen: true
