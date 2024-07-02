@@ -56,7 +56,13 @@ export const enNavbar = navbar([
         text: "Developer Documentation",
         icon: "code",
         prefix: "devdocs/",
-        children: [],
+        children: [
+          {
+            text: "Overview",
+            icon: "code",
+            link: "overview",
+          }
+        ],
       },
     ],
   },

@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://oss.grafnus.de/Grafnus.svg",
 
   repo: "GrafnusOSS/software-documentation",
 
@@ -22,7 +22,7 @@ export default hopeTheme({
   blog: {
     medias: {
       Discord: "https://discord.com",
-      Email: "mailto:grafnus@grafnus.de",
+      //Email: "mailto:grafnus@grafnus.de",
       GitHub: "https://github.com/Grafnus"
     },
   },

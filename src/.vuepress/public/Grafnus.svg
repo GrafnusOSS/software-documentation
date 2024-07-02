@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Grafnus 002.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="165.82911"
+     inkscape:cy="110.96738"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4576" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08331)">
+    <g
+       id="layer1-2"
+       inkscape:label="Ebene 1"
+       transform="matrix(0.28200337,0,0,0.28143758,-3.2600893,232.46544)">
+      <g
+         transform="matrix(3.9227081,0,0,3.9227081,94.605854,-78.066886)"
+         inkscape:label="Ebene 1"
+         id="layer1-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="rect34"
+           style="fill:#666666;stroke-width:0.25100499"
+           d="m -15.111717,38.373323 6.7e-5,35.863672 h 7.2760416 l -1.3e-5,-29.200673 c 0.0093,-1.609141 0.935757,-2.541204 2.54926,-2.549327 H 20.6071 v -7.9375 h -31.894928 c -2.092236,-0.054 -3.77567,1.663478 -3.823889,3.823828 z m 11.9063176,12.103374 v 7.937431 l 13.9872744,-5.8e-5 c 1.379686,0.0066 2.566659,1.14546 2.549184,2.54926 v 13.273665 h 7.275916 v -19.93641 c 0.02618,-1.900943 -1.633878,-3.801886 -3.823889,-3.823888 z"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
