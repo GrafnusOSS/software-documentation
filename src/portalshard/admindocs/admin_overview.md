@@ -10,7 +10,7 @@ sticky: true
 order: 1
 ---
 
-# Overview
+# Administration Overview
 
 > [!caution]
 > This plugin is in **ALPHA**, please refrain from using it in a production environment!
