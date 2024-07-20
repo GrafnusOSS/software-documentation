@@ -19,7 +19,7 @@ playing on a small server that a few friends and I have setup (as well as other 
 All my plugins have the goal to improve the players experience and extend on the vanilla gameplay! 
 Therefore I design my plugins in a way that allows for as much immersion as possible.
 
-## The overall goal
+## The overall Goal
 
 Minecraft is a game with unlimmited possibilities. 
 You can build huge buildings, invent new redstone circuits, decorate to you heart's content, battle other players and so much more.
@@ -29,9 +29,18 @@ To counteract this, my plugins and some of my blog posts aim to provide opportun
 My main focus is on developping open source software (Grafnus OpenSourceSoftware (OSS)) with full access to the software and all CI/CD (Guthub Actions) software builds.
 But that does not mean that support will always be free, but only time will tell.
 
-## Minecraft as a canvas
+## This Blog
 
-For me it feels like Minecraft a canvas. You are only limited by you imagination. With my plugins I try to give you some tools that makes it easier for server administrators and players to formulate and express any ideas they have. By giving players goals, regular challenges them and 
+Over the past few years I've come accross a few challenges, noticed some wierd solution from other developers and got some interessting ideas. 
+I plan to formulate them into blog posts in order for me to structure and archive them for me. 
+Maybe at some point someone will find anything I wrote interessting, maybe not. 
+You can understand this blog as a developers diary of some sort.
 
+If you have any sort of criticism or questions feel free to reach out to me. I'll happily start an indepth discussion with you.
 
+## What is coming next?
 
+I honestly don't have any idea what will be the next blog post. Maybe something about extending the vanilla gameplay of Minecraft? ;D
+
+**Cheers**  
+~Grafnus

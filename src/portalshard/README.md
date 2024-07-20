@@ -22,7 +22,3 @@ They can create portals to travel to their creations across the server or to the
 All while keeping portals rather difficult to optain and maintain for new players, 
 they become quiet cheap in the late game by the use of `Crying Obisdian`, `Ender Pearls` and `Upgrades`. 
 This balances PortalShard to be a perfect fit for Survival Multiplayer Servers.
-
-## Origins
-
-I created PortalShard for a small Minecraft Server I created together with some friends. 
