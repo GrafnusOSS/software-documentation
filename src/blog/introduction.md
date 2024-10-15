@@ -36,7 +36,7 @@ I plan to formulate them into blog posts in order for me to structure and archiv
 Maybe at some point someone will find anything I wrote interessting, maybe not. 
 You can understand this blog as a developers diary of some sort.
 
-If you have any sort of criticism or questions feel free to reach out to me. I'll happily start an indepth discussion with you.
+If you have any sort of criticism or questions feel free to reach out to me. I'll happily start a discussion with you.
 
 ## What is coming next?
 

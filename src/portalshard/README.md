@@ -7,6 +7,7 @@ tag:
   - spigot
 star: true
 sticky: true
+article: false
 ---
 
 # PortalShard - Home

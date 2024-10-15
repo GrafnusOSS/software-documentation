@@ -7,8 +7,8 @@ tag:
   - Spigot
   - Basics
 star: true
-sticky: true
 order: 1
+article: false
 ---
 
 # Portal Creation

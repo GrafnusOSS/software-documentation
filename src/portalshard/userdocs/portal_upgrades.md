@@ -8,6 +8,7 @@ tag:
 star: true
 sticky: true
 order: 3
+article: false
 ---
 
 # Portal Upgrades

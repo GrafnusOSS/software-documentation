@@ -6,6 +6,7 @@ index: false
 icon: newspaper
 category:
   - Blog
+article: false
 ---
 
 # Grafnus' Blog
